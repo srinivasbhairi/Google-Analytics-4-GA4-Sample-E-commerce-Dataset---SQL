@@ -1,8 +1,9 @@
-# Google-Analytics-4-GA4-Sample-E-commerce-Dataset---SQL
 
-Got it ✅ You want a **professional README.md** for your GitHub repo that includes the **10 SQL queries on GA4 E-commerce dataset**, with **business context, insights, and purpose**. I’ll prepare a structured README that looks polished, professional, and easy for recruiters or collaborators to understand.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/007c9cb4-a8d4-4105-9df4-97956dd0d6f3" />
 
-Here’s a draft you can directly upload 👇
+SRINIVAS BHAIRI | Data Scientist Aspirant
+
+[Connect me on LinkedIn](https://www.linkedin.com/in/srinivas-bhairi)
 
 ---
 
