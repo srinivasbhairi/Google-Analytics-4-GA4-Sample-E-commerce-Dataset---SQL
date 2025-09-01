@@ -57,7 +57,5 @@ The analysis covers **conversion funnels, user engagement, product popularity, c
 * **Dataset:** GA4 E-commerce Sample Data
 * **Tools:** Google Cloud Platform, BigQuery Console
 
----
 
-So your GitHub repo will have both **README (summary)** and **Insights.md (detailed doc)**?
 
